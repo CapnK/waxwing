@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "waxwing": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Rhino 7\\System\\Rhino.exe",
+      "commandLineArgs": ""
+    }
+  }
+}
